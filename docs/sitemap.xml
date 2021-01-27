@@ -1,0 +1,22 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://tamaliki.vercel.app</loc>
+  </url>
+   <url>
+    <loc>https://tamaliki.vercel.app/about</loc>
+  </url>
+   <url>
+    <loc>https://tamaliki.vercel.app/contact</loc>
+  </url>
+   <url>
+    <loc>https://tamaliki.vercel.app/sertifikat</loc>
+  </url>
+   <url>
+    <loc>https://tamaliki.vercel.app/project</loc>
+  </url>
+   <url>
+    <loc>https://tamaliki.vercel.app/portofolio</loc>
+  </url>
+</urlset>
